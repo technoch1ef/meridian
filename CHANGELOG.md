@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.84.1](https://github.com/rynfar/meridian/compare/meridian-v1.84.0...meridian-v1.84.1) (2026-10-20)
+
+
+### Bug Fixes
+
+* deliver Responses input_file PDFs as document blocks ([acb8d39](https://github.com/rynfar/meridian/commit/acb8d390e4d764e5d2e7a9b7c60fb17df47c25dd))
+* keep consecutive user messages in the current turn ([a2c19df](https://github.com/rynfar/meridian/commit/a2c19dfa23d9d8586a1d9f286c5467a381052595))
+* stop client reminder discovery at non-text content ([ea4c6a6](https://github.com/rynfar/meridian/commit/ea4c6a6f494b5a8897f31f76033bd60a8ec343a6))
+
 ## [1.84.0](https://github.com/rynfar/meridian/compare/meridian-v1.83.1...meridian-v1.84.0) (2026-10-19)
 
 
